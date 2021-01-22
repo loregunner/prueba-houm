@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/prueba-houm/static/css/main.2349c8b8.chunk.css",
+    "main.js": "/prueba-houm/static/js/main.2c8fc423.chunk.js",
+    "main.js.map": "/prueba-houm/static/js/main.2c8fc423.chunk.js.map",
+    "runtime-main.js": "/prueba-houm/static/js/runtime-main.6e575c85.js",
+    "runtime-main.js.map": "/prueba-houm/static/js/runtime-main.6e575c85.js.map",
+    "static/js/2.7ec373e4.chunk.js": "/prueba-houm/static/js/2.7ec373e4.chunk.js",
+    "static/js/2.7ec373e4.chunk.js.map": "/prueba-houm/static/js/2.7ec373e4.chunk.js.map",
+    "static/js/3.48d3185d.chunk.js": "/prueba-houm/static/js/3.48d3185d.chunk.js",
+    "static/js/3.48d3185d.chunk.js.map": "/prueba-houm/static/js/3.48d3185d.chunk.js.map",
+    "index.html": "/prueba-houm/index.html",
+    "static/css/main.2349c8b8.chunk.css.map": "/prueba-houm/static/css/main.2349c8b8.chunk.css.map",
+    "static/js/2.7ec373e4.chunk.js.LICENSE.txt": "/prueba-houm/static/js/2.7ec373e4.chunk.js.LICENSE.txt",
+    "static/media/footer.css": "/prueba-houm/static/media/acme.04a4598a.ttf",
+    "static/media/header.css": "/prueba-houm/static/media/clemen.5c8f453b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e575c85.js",
+    "static/js/2.7ec373e4.chunk.js",
+    "static/css/main.2349c8b8.chunk.css",
+    "static/js/main.2c8fc423.chunk.js"
+  ]
+}
