@@ -1,0 +1,14 @@
+.box{
+    margin: 12em 52em;
+}
+@media (max-width: 500px) {
+    .box{
+        margin: 12em 6em;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 900px){
+    .box{
+        margin: 21em 19em;
+    }
+}

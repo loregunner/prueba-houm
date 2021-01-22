@@ -1,0 +1,93 @@
+.init{
+   margin: 15em;
+}
+
+.titulo{
+    margin: -9em 8em 2em -18em;
+    font-family: cle;
+}
+
+.img{
+    width: 52%;
+    max-height: 136px;
+    margin-left: 4em;
+    border-radius: 10px;
+}
+.data{
+    display: flex;
+    margin: 9% -33%;
+}
+.arreglo{
+    list-style: none;
+    display: -webkit-inline-box;
+}
+.listaData{
+    box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.582);
+    width: 20%;
+    min-height: 450px;
+    max-height: 450px;
+    margin: 1%;
+    display: inline-grid;
+    justify-content: center;
+    align-items: center;
+}
+.type{
+    margin-right: 6em;
+    margin-top: 2em;
+}
+
+.episodios{
+    margin-left: 6em;
+    margin-top: -1.2em;
+}
+
+@media (max-width: 500px) {
+   
+    .titulo{
+        margin: -23em 9em 8em -8.6em;
+        font-size: 4vw;
+    }
+    .data{
+        display: flex;
+        margin: 9% -33%;
+    }
+    .arreglo{
+        list-style: none;
+        display: inline-block;
+    }
+    .listaData{
+       display: table;
+       width: 110%;
+       min-height: 350px;
+       max-height: 350px;
+       margin: 0% -79%;
+    }
+    .img{
+        margin-left: 0.6em;
+    }
+  }
+  @media (min-width: 501px) and (max-width: 900px){
+    .titulo{
+        margin: -16em 9em 9em -0.6em;
+        font-size: 4vw;
+    }
+    .data{
+        display: flex;
+        margin: 9% -33%;
+    }
+    .arreglo{
+        list-style: none;
+        display: inline-block;
+    }
+    .listaData{
+        display: table;
+        width: 100%;
+        min-height: 250px;
+        max-height: 350px;
+        margin: 0% 0%;
+    }
+    .img{
+        margin-left: 0.6em;
+        max-height: 200px;
+    }
+  }
